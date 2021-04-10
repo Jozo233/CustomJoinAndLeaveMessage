@@ -1,0 +1,3 @@
+#%Player% = player
+JoinMessage: '&5[+] %Player%'
+LeaveMessage: '&4[-] %Player%'

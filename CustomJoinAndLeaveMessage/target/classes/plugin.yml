@@ -1,0 +1,6 @@
+name: CustomJoinAndLeaveMessage
+version: 1.0-SNAPSHOT
+main: customjoinandleavemessage.customjoinandleavemessage.Main
+api-version: 1.16
+authors: [ Jozo_85 ]
+description: CustomJoinAndLeaveMessage
